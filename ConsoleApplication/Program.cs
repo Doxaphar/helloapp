@@ -8,5 +8,10 @@ namespace ConsoleApplication
         {
             Console.WriteLine("Hello");
         }
+
+        private static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
